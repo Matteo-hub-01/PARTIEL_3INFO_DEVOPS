@@ -34,7 +34,7 @@ Ce dépôt contient un projet Python simple avec :
 ## Test Results
 
 
-* **Test** ![Test Status](https://github.com/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)
+* **Test** [![Run Tests](https://github.com/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)](https://github.com/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml)
 
 
 
