@@ -34,8 +34,8 @@ Ce dépôt contient un projet Python simple avec :
 ## Test Results
 
 
-* **Test** [![Run Tests](https://github.com/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)](https://github.com/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml)
-
+![Test Status](https://img.shields.io/github/workflow/status/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/Run%20Tests)
+![Linter Status](https://img.shields.io/github/workflow/status/Matteo-hub-01/PARTIEL_3INFO_DEVOPS/Run%20Linter)
 
 
 ## Available Badges
